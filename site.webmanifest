@@ -1,0 +1,13 @@
+{
+  "name": "Adaptarse o sofocarse",
+  "short_name": "Sofoc",
+  "description": "El déficit de climatización en la Europa del calor extremo (1995–2026)",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#b3372c",
+  "background_color": "#fbfaf6",
+  "display": "browser"
+}
