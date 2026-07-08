@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="portada.png" alt="Adaptarse o sofocarse — portada del informe" width="400">
-</p>
-
 <h1 align="center">Adaptarse o sofocarse</h1>
 <p align="center">
   <em>El déficit de climatización en la Europa del calor extremo:<br>
@@ -17,6 +13,10 @@
   <br>
   <img src="https://img.shields.io/badge/Quarto-HTML%20autocontenido-75AADB?logo=quarto&logoColor=white" alt="Quarto HTML">
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/licencia-CC%20BY%204.0-lightgrey" alt="Licencia CC BY 4.0"></a>
+</p>
+
+<p align="center">
+  <img src="portada.png" alt="Adaptarse o sofocarse — portada del informe" width="400">
 </p>
 
 ---
