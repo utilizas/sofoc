@@ -23,7 +23,7 @@
 
 ## Resumen
 
-Informe académico documentado (~60 referencias APA 7 con notas al pie) sobre el déficit estructural de climatización en la Europa central y del sur, contrastado con dos décadas de olas de calor recurrentes (1995–2026). Incluye un **simulador térmico interactivo** (JavaScript vanilla, modelo RC) y desarrolla una taxonomía original del negacionismo climático — **teórico, práctico y performativo** — aplicada al retraso normativo en la adaptación del parque edificado.
+Informe académico documentado (~90 referencias APA 7 con notas al pie) sobre el déficit estructural de climatización en la Europa central y del sur, contrastado con dos décadas de olas de calor recurrentes (1995–2026). Incluye un **simulador térmico interactivo** (JavaScript vanilla, modelo RC) y desarrolla una taxonomía original del negacionismo climático — **teórico, práctico y performativo** — aplicada al retraso normativo en la adaptación del parque edificado.
 
 Documento Quarto autocontenido (`embed-resources: true`): un único `.qmd` con YAML, CSS y JavaScript integrados.
 
