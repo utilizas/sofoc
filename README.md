@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portada.png" alt="Adaptarse o sofocarse — portada del informe" width="820">
+  <img src="portada.png" alt="Adaptarse o sofocarse — portada del informe" width="650">
 </p>
 
 <h1 align="center">Adaptarse o sofocarse</h1>
