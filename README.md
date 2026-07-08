@@ -74,7 +74,7 @@ Versión actual: **v1.0**. Las cifras de 2026 son provisionales a fecha de compi
 
 ## Licencia
 
-Contenido publicado bajo licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Contenido publicado bajo licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY NC SA 4.0)]([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)).
 
 ## Autor
 
